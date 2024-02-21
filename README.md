@@ -1,8 +1,13 @@
 # **Getting Started with Vite**
 
+## Netflix HomePage Clone
+
+Clone of the Netflix homepage using the TMDB API.
+
+Link to deploy: https://homepageclonenetflix.netlify.app/
 
 
-## Prerequisites
+## How to run the project.
 
 Before you begin, make sure you have Node.js and npm installed on your system. If you haven't already, follow the instructions at [Node.js](https://nodejs.org/) to install.
 
@@ -11,7 +16,7 @@ Before you begin, make sure you have Node.js and npm installed on your system. I
 To start the project, first, clone this repository to your local machine. Open the terminal and execute the following command:
 
 ```bash
-git clone https://github.com/Jefsouza-dev/TechMall.git
+git clone https://github.com/Jefsouza-dev/homepage-netflix.git
 ```
 
 This will create a local copy of the project on your machine.
