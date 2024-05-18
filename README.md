@@ -4,7 +4,7 @@
 
 Clone of the Netflix homepage using the TMDB API.
 
-Link to deploy: https://homepageclonenetflix.netlify.app/
+Link to deploy: https://homepage-netflix.vercel.app/
 
 
 ## How to run the project.
